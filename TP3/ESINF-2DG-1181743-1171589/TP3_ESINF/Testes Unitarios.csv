@@ -1,0 +1,21 @@
+Atomic Number,Element,Symbol,Atomic Weight,Atomic Mass,Period,Group,Phase,Most Stable Crystal,Type,Ionic Radius,Atomic Radius,Electronegativity,First Ionization Potential,Density,Melting Point (K),Boiling Point (K),Isotopes,Discoverer,Year of Discovery,Specific Heat Capacity,Electron Configuration,Display Row,Display Column
+10,Neon,Ne,20.1797,20.18,2,18,gas,,Noble Gas,,0.51,,21.5645,0.0008999,24.703,27.07,8,Ramsay and Travers,1898,1.03,[He] 2s2 2p6,2,18
+11,Sodium,Na,22.98976928,22.9897693,3,1,solid,bcc,Alkali Metal,1,2.2,0.93,5.1391,0.971,371.15,1156,7,Davy,1807,1.228,[Ne] 3s1,3,1
+12,Magnesium,Mg,24.305,24.305,3,2,solid,hex,Alkaline Earth Metal,0.72,1.7,1.31,7.6462,1.738,923.15,1363,8,Black,1755,1.023,[Ne] 3s2,3,2
+13,Aluminum,Al,26.9815386,26.981538,3,13,solid,fcc,Metal,0.54,1.8,1.61,5.9858,2.698,933.4,2792,8,Wšhler,1827,0.897,[Ne] 3s2 3p1,3,13
+14,Silicon,Si,28.0855,28.085,3,14,solid,fcc,Metalloid,0.4,1.5,1.9,8.1517,2.3296,1683.15,3538,8,Berzelius,1824,0.705,[Ne] 3s2 3p2,3,14
+15,Phosphorus,P,30.973762,30.973762,3,15,solid,cub,Nonmetal,0.38,1.2,2.19,10.4867,1.82,317.25,553,7,BranBrand,1669,0.769,[Ne] 3s2 3p3,3,15
+16,Sulfur,S,32.065,32.07,3,16,solid,orth,Nonmetal,0.37,1.1,2.58,10.36,2.067,388.51,717.8,10,Prehistoric,,0.71,[Ne] 3s2 3p4,3,16
+17,Chlorine,Cl,35.453,35.45,3,17,gas,,Halogen,1.8,0.97,3.16,12.9676,0.003214,172.31,239.11,11,Scheele,1774,0.479,[Ne] 3s2 3p5,3,17
+18,Argon,Ar,39.948,39.9,3,18,gas,,Noble Gas,,0.88,,15.7596,0.0017837,83.96,87.3,8,Rayleigh and Ramsay,1894,0.52,[Ne] 3s2 3p6,3,18
+19,Potassium,K,39.0983,39.098,4,1,solid,bcc,Alkali Metal,1.4,2.8,0.82,4.3407,0.862,336.5,1032,10,Davy,1807,0.757,[Ar] 4s1,4,1
+20,Calcium,Ca,40.078,40.08,4,2,solid,fcc,Alkaline Earth Metal,0.99,2.2,1,6.1132,1.54,1112.15,1757,14,Davy,1808,0.647,[Ar] 4s2,4,2
+21,Scandium,Sc,44.955912,44.95591,4,3,solid,hex,Transition Metal,0.75,2.1,1.36,6.5615,2.989,1812.15,3109,15,Nilson,1878,0.568,[Ar] 3d1 4s2,4,3
+22,Titanium,Ti,47.867,47.87,4,4,solid,hex,Transition Metal,0.61,2,1.54,6.8281,4.54,1933.15,3560,9,Gregor,1791,0.523,[Ar] 3d2 4s2,4,4
+23,Vanadium,V,50.9415,50.941,4,5,solid,bcc,Transition Metal,0.59,1.9,1.63,6.7462,6.11,2175.15,3680,9,   del Rio,1801,0.489,[Ar] 3d3 4s2,4,5
+24,Chromium,Cr,51.9961,51.996,4,6,solid,bcc,Transition Metal,0.52,1.9,1.66,6.7665,7.15,2130.15,2944,9,Vauquelin,1797,0.449,[Ar] 3d5 4s1,4,6
+25,Manganese,Mn,54.938045,54.93804,4,7,solid,bcc,Transition Metal,0.46,1.8,1.55,7.434,7.44,1519.15,2334,11,Gahn Scheele,1774,0.479,[Ar] 3d5 4s2,4,7
+26,Iron,Fe,55.845,55.84,4,8,solid,bcc,Transition Metal,0.65,1.7,1.83,7.9024,7.874,1808.15,3134,10,Prehistoric,,0.449,[Ar] 3d6 4s2,4,8
+27,Cobalt,Co,58.933195,58.93319,4,9,solid,hex,Transition Metal,0.75,1.7,1.88,7.881,8.86,1768.15,3200,14,Brandt,1735,0.421,[Ar] 3d7 4s2,4,9
+28,Nickel,Ni,58.6934,58.693,4,10,solid,fcc,Transition Metal,0.69,1.6,1.91,7.6398,8.912,1726.15,3186,11,Cronstedt,1751,0.444,[Ar] 3d8 4s2,4,10
+29,Copper,Cu,63.546,63.55,4,11,solid,fcc,Transition Metal,0.73,1.6,1.9,7.7264,8.96,1357.75,2835,11,Prehistoric,,0.385,[Ar] 3d10 4s1,4,11

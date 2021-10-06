@@ -1,0 +1,5 @@
+PeriodicTable.ElementName
+PeriodicTable.ElementSymbol
+PeriodicTable.SearchFields
+PeriodicTable.ElementAtomicMass
+PeriodicTable.ElementAtomicNumber

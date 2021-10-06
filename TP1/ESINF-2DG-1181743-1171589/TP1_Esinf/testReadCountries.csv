@@ -1,0 +1,3 @@
+"iso_code","continent","location","date","total_cases","new_cases","total_deaths","new_deaths","new_tests","total_tests","population","aged_65_older","cardiovasc_death_rate","diabetes_prevalence","female_smokers","male_smokers","hospital_beds_per_thousand","life_expectancy"
+"AFG","Asia","Afghanistan",2020-01-01,0,0,0,0,NA,NA,38928341,2.581,597.029,9.59,NA,NA,0.5,64.83
+"AFG","Asia","Afghanistan",2020-01-02,0,0,0,0,NA,NA,38928341,2.581,597.029,9.59,NA,NA,0.5,64.83
